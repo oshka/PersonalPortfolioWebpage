@@ -203,3 +203,14 @@ html,h1,h2,h3,h4,h5,h6,a{
     color: #888;
     font-size: 16px;
 }
+#team .text-muted {
+    display: block;
+}
+
+footer ul li {
+    display: inline-block;
+}
+.btn.btn-twitter.btn-link, .btn.btn-twitter.btn-link:active, .btn.btn-twitter.btn-link:focus, .btn.btn-twitter.btn-link:hover {
+    background-color: transparent;
+    color: #55acee;
+}
